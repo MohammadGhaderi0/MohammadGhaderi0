@@ -2,12 +2,12 @@
 ## 🔱 About Me
 <pre>
 👋 Hi, I’m Mohammad Ghaderi
-<Frontend
+≤Frontend
     role = "developer"        
     class = "beginner"
     learing = "React">
     HTML is a language :)
- </Frontend>
+ ≤/Frontend>
 Telegram:@MohammadGhaderi0
 
 
