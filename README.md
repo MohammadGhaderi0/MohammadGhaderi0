@@ -7,7 +7,7 @@
     class = "beginner"
     learing = "React">
     HTML is a language :)
- ≤/Frontend>
+≤/Frontend>
 Telegram:@MohammadGhaderi0
 
 
