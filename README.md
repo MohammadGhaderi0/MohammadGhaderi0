@@ -1,13 +1,13 @@
-
 ## 🔱 About Me
+👋 Hi, I’m Mohammad Gaderi
 <pre>
-👋 Hi, I’m Mohammad Ghaderi
 .Frontend{
-    role: developer; 
+    role: developer;
     class: beginner;
     learing: React;
-    Telegram:"@MohammadGhaderi0";
-}    
+    Telegram:"@mohammadghaderi0";
+}
+
 
 
 
