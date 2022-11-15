@@ -1,5 +1,5 @@
 
-## 🚀 About Me
+## 🔱 About Me
 <pre>
 👋 Hi, I’m Mohammad Ghaderi
  <div
@@ -8,7 +8,7 @@
     learing = "React">
     HTML is a language :)
  </div>
-Telegram:@MohammadGhaderi0a
+Telegram:@MohammadGhaderi0
 
 
 
