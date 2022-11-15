@@ -1,6 +1,5 @@
 
 ## 🔱 About Me
-<pre>
 👋 Hi, I’m Mohammad Ghaderi
 .Frontend{
     role: developer; 
