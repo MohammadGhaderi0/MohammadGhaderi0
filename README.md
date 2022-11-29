@@ -3,9 +3,8 @@
 <pre>
 .Frontend{
     role: developer;
-    class: beginner;
+    class: junior;
     learing: React;
-    Telegram:"@mohammadghaderi0";
 }
 
 
