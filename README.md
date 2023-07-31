@@ -1,7 +1,7 @@
 ## 🔱 About Me
 <h1 align="center">Hi 👋, I'm Mohammad Ghaderi</h1>
 <p align="center">
-![ezgif com-optimize](https://github.com/MohammadGhaderi0/MohammadGhaderi0/assets/107918334/1d1f3a54-b303-4435-bf72-bcd14ceeb9ce)
+  ![ezgif com-optimize](https://github.com/MohammadGhaderi0/MohammadGhaderi0/assets/107918334/1d1f3a54-b303-4435-bf72-bcd14ceeb9ce)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
