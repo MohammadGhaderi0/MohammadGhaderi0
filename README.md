@@ -11,6 +11,5 @@ Hi 👋, I'm Mohammad Ghaderi. I'm a Unity game developer with a passion for cre
 
 <a href="https://github.com/Awrsha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadGhaderi0&langs_count=10&layout=compact&theme=radical&hide_border=true" height="230px" /></a>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadGhaderi0&theme=radical&show_icons=true&hide_border=true)
-<a href="https://github.com/MohammadGhaderi0"><img alt="My Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=MohammadGhaderi0&theme=radical&hide_border=true" height="200px" /></a>
+
 <a href="https://github.com/MohammadGhaderi0"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadGhaderi0&theme=radical" height="250px"/></a>
