@@ -1,6 +1,4 @@
 ## 🔱 About Me
-
-![ezgif com-optimize](https://github.com/MohammadGhaderi0/MohammadGhaderi0/assets/107918334/1d1f3a54-b303-4435-bf72-bcd14ceeb9ce)
  <br>
  <br>
 Hi 👋, I'm Mohammad Ghaderi. I'm a Unity game developer with a passion for creating immersive games. I also have some frontend experiences.
